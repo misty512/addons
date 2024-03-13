@@ -1,3 +1,9 @@
+Ver. 1.0.54
+
+Best of NHK - 79th release
+
+Fix: NHK Live Stream
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ver. 1.0.53
 
 Best of NHK - 78th release
